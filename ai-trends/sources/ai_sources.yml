@@ -1,0 +1,58 @@
+# Official and trusted source list for global AI trend monitoring.
+# The first automation version checks whether these pages changed and creates a daily report.
+
+categories:
+  - name: Foundation models and generative AI
+    sources:
+      - title: OpenAI News
+        url: https://openai.com/news/
+      - title: Google DeepMind Blog
+        url: https://deepmind.google/discover/blog/
+      - title: Anthropic News
+        url: https://www.anthropic.com/news
+      - title: Meta AI Blog
+        url: https://ai.meta.com/blog/
+      - title: Mistral AI News
+        url: https://mistral.ai/news/
+
+  - name: Enterprise AI and platforms
+    sources:
+      - title: Microsoft AI Blog
+        url: https://blogs.microsoft.com/ai/
+      - title: AWS Machine Learning Blog
+        url: https://aws.amazon.com/blogs/machine-learning/
+      - title: Google Cloud AI Blog
+        url: https://cloud.google.com/blog/products/ai-machine-learning
+      - title: NVIDIA Blog - AI
+        url: https://blogs.nvidia.com/blog/category/deep-learning/
+
+  - name: AI governance and regulation
+    sources:
+      - title: EU AI Office
+        url: https://digital-strategy.ec.europa.eu/en/policies/ai-office
+      - title: European Commission - AI Act
+        url: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+      - title: OECD AI Policy Observatory
+        url: https://oecd.ai/en/
+      - title: NIST AI Resource Center
+        url: https://airc.nist.gov/
+
+  - name: AI safety and research
+    sources:
+      - title: Stanford HAI News
+        url: https://hai.stanford.edu/news
+      - title: MIT News - Artificial Intelligence
+        url: https://news.mit.edu/topic/artificial-intelligence2
+      - title: arXiv cs.AI recent
+        url: https://arxiv.org/list/cs.AI/recent
+      - title: arXiv cs.LG recent
+        url: https://arxiv.org/list/cs.LG/recent
+
+  - name: Japan and industry AI trends
+    sources:
+      - title: METI - AI and Digital Policy
+        url: https://www.meti.go.jp/english/policy/mono_info_service/index.html
+      - title: IPA Digital Architecture Design Center
+        url: https://www.ipa.go.jp/en/index.html
+      - title: JETRO Business News
+        url: https://www.jetro.go.jp/en/news/
