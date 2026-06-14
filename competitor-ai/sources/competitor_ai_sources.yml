@@ -1,0 +1,69 @@
+# Official and trusted source list for Shimadzu competitor AI trend monitoring.
+
+categories:
+  - name: Analytical instruments and laboratory AI
+    sources:
+      - title: Thermo Fisher Scientific Newsroom
+        url: https://corporate.thermofisher.com/en/newsroom.html
+      - title: Thermo Fisher Scientific Products and Services News
+        url: https://www.thermofisher.com/blog/
+      - title: Agilent Newsroom
+        url: https://www.agilent.com/about/newsroom
+      - title: Waters Newsroom
+        url: https://www.waters.com/nextgen/us/en/about-waters/newsroom.html
+      - title: Bruker News
+        url: https://www.bruker.com/en/news-and-events/news.html
+      - title: Revvity Newsroom
+        url: https://www.revvity.com/newsroom
+      - title: Mettler-Toledo News
+        url: https://www.mt.com/us/en/home/aboutus/news.html
+      - title: Bio-Rad Newsroom
+        url: https://www.bio-rad.com/en-us/corporate/newsroom
+
+  - name: Danaher operating companies
+    sources:
+      - title: Danaher News
+        url: https://www.danaher.com/news
+      - title: SCIEX News
+        url: https://sciex.com/about-us/news
+      - title: Beckman Coulter Newsroom
+        url: https://www.beckman.com/about-us/newsroom
+      - title: Leica Biosystems News
+        url: https://www.leicabiosystems.com/about/news/
+      - title: Cepheid News
+        url: https://www.cepheid.com/en-US/news.html
+
+  - name: Medical and diagnostics AI
+    sources:
+      - title: Roche Media Releases
+        url: https://www.roche.com/media/releases
+      - title: Siemens Healthineers Press
+        url: https://www.siemens-healthineers.com/press
+      - title: Philips News Center
+        url: https://www.philips.com/a-w/about/news/home.html
+      - title: GE HealthCare Newsroom
+        url: https://www.gehealthcare.com/about/newsroom
+
+  - name: Japanese analytical and measurement competitors
+    sources:
+      - title: JEOL News
+        url: https://www.jeol.com/news/
+      - title: HORIBA News
+        url: https://www.horiba.com/int/company/news/
+      - title: Hitachi High-Tech News Releases
+        url: https://www.hitachi-hightech.com/global/en/news/
+      - title: Nikon News
+        url: https://www.nikon.com/company/news/
+      - title: Olympus News
+        url: https://www.olympus-global.com/news/
+
+  - name: Life science and lab automation platforms
+    sources:
+      - title: Sartorius Newsroom
+        url: https://www.sartorius.com/en/company/newsroom
+      - title: Tecan News
+        url: https://www.tecan.com/news
+      - title: Hamilton Robotics News
+        url: https://www.hamiltoncompany.com/automated-liquid-handling/news-events
+      - title: Illumina News Center
+        url: https://www.illumina.com/company/news-center.html
