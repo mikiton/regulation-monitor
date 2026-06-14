@@ -1,0 +1,75 @@
+# Official and trusted source list for SAP/PLM/SCM and manufacturing DX monitoring.
+
+categories:
+  - name: SAP and ERP
+    sources:
+      - title: SAP News Center
+        url: https://news.sap.com/
+      - title: SAP Business AI
+        url: https://www.sap.com/products/artificial-intelligence.html
+      - title: SAP S/4HANA Cloud ERP
+        url: https://www.sap.com/products/erp/s4hana.html
+      - title: SAP Business Technology Platform
+        url: https://www.sap.com/products/technology-platform.html
+      - title: SAP Integrated Business Planning
+        url: https://www.sap.com/products/scm/integrated-business-planning.html
+      - title: SAP Digital Manufacturing
+        url: https://www.sap.com/products/scm/digital-manufacturing.html
+
+  - name: PLM and digital thread
+    sources:
+      - title: Siemens Digital Industries Software Blog
+        url: https://blogs.sw.siemens.com/
+      - title: Siemens Teamcenter
+        url: https://plm.sw.siemens.com/en-US/teamcenter/
+      - title: Dassault Systemes Newsroom
+        url: https://www.3ds.com/newsroom
+      - title: PTC News
+        url: https://www.ptc.com/en/news
+      - title: PTC Windchill
+        url: https://www.ptc.com/en/products/windchill
+
+  - name: SCM and planning
+    sources:
+      - title: Kinaxis Newsroom
+        url: https://www.kinaxis.com/en/newsroom
+      - title: Blue Yonder Newsroom
+        url: https://media.blueyonder.com/
+      - title: o9 Solutions Newsroom
+        url: https://o9solutions.com/company/newsroom/
+      - title: Oracle Supply Chain Management Blog
+        url: https://blogs.oracle.com/scm/
+      - title: Microsoft Supply Chain Platform
+        url: https://www.microsoft.com/en-us/dynamics-365/products/supply-chain-management
+
+  - name: Manufacturing DX and smart factory
+    sources:
+      - title: Microsoft Manufacturing Blog
+        url: https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/
+      - title: AWS Industrial Blog
+        url: https://aws.amazon.com/blogs/industries/category/industries/industrial/
+      - title: Google Cloud Manufacturing Blog
+        url: https://cloud.google.com/blog/topics/manufacturing
+      - title: Schneider Electric Newsroom
+        url: https://www.se.com/ww/en/about-us/newsroom/
+      - title: Bosch Press Portal
+        url: https://www.bosch-presse.de/pressportal/de/en/press-release.html
+      - title: Mitsubishi Electric News Releases
+        url: https://www.mitsubishielectric.com/news/
+      - title: Hitachi News Releases
+        url: https://www.hitachi.com/New/cnews/index.html
+      - title: NEC News Releases
+        url: https://www.nec.com/en/press/
+      - title: Fujitsu News
+        url: https://www.fujitsu.com/global/about/resources/news/
+
+  - name: Regulation DX and product traceability
+    sources:
+      - title: European Commission - Ecodesign for Sustainable Products Regulation
+        url: https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation_en
+      - title: European Commission - Digital Product Passport
+        url: https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation/digital-product-passport_en
+      - title: Catena-X News
+        url: https://catena-x.net/en/news
+      - title: Manufacturing-X
+        url: https://www.plattform-i40.de/IP/Navigation/EN/Manufacturing-X/Manufacturing-X.html
