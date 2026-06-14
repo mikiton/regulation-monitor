@@ -46,14 +46,14 @@
       "last_checked": "2026-06-14",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
-      "sha256": "c60f3518d16129270672f1ee6ad5045f05d9175be96d488278b6a85e7dd20dc3",
+      "sha256": "44a6f66585cb5ffdb953c51f9f59328cede4a3cd4432adaa9fceebbb0c936659",
       "title": "EUR-Lex search - Cyber Resilience Act"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=RoHS&lang=en&type=quick": {
       "last_checked": "2026-06-14",
       "last_status": "ok",
       "regulation": "RoHS",
-      "sha256": "6bd9c8956393f37fdb96169a434b59e1c9e6f82705193ca42e5fe1e89c4cc1ba",
+      "sha256": "692119704c10b305569674bf1b7060fd8d4610b3169417f7a9288d2372140b7b",
       "title": "EUR-Lex search - RoHS"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en": {
