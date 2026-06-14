@@ -1,0 +1,64 @@
+# Official and trusted source list for global manufacturing AI use-case monitoring.
+
+categories:
+  - name: Manufacturing automation and industrial AI
+    sources:
+      - title: Siemens Newsroom
+        url: https://press.siemens.com/global/en
+      - title: Bosch Press Portal
+        url: https://www.bosch-presse.de/pressportal/de/en/press-release.html
+      - title: Schneider Electric Newsroom
+        url: https://www.se.com/ww/en/about-us/newsroom/
+      - title: ABB News
+        url: https://global.abb/group/en/media/news
+      - title: Honeywell News
+        url: https://www.honeywell.com/us/en/press
+
+  - name: Japanese manufacturing and industrial AI
+    sources:
+      - title: Hitachi News Releases
+        url: https://www.hitachi.com/New/cnews/index.html
+      - title: Mitsubishi Electric News Releases
+        url: https://www.mitsubishielectric.com/news/
+      - title: NEC News Releases
+        url: https://www.nec.com/en/press/
+      - title: Fujitsu Customer Stories and News
+        url: https://www.fujitsu.com/global/about/resources/news/
+      - title: Panasonic Newsroom
+        url: https://news.panasonic.com/global/
+
+  - name: Healthcare and analytical instruments AI
+    sources:
+      - title: Siemens Healthineers Press
+        url: https://www.siemens-healthineers.com/press
+      - title: Philips News Center
+        url: https://www.philips.com/a-w/about/news/home.html
+      - title: Thermo Fisher Scientific Newsroom
+        url: https://corporate.thermofisher.com/en/newsroom.html
+      - title: Agilent Newsroom
+        url: https://www.agilent.com/about/newsroom
+      - title: Danaher News
+        url: https://www.danaher.com/news
+      - title: Waters Newsroom
+        url: https://www.waters.com/nextgen/us/en/about-waters/newsroom.html
+      - title: Bruker News
+        url: https://www.bruker.com/en/news-and-events/news.html
+      - title: Roche Media Releases
+        url: https://www.roche.com/media/releases
+
+  - name: Industrial AI platforms and digital manufacturing
+    sources:
+      - title: NVIDIA Industrial and Robotics Blog
+        url: https://blogs.nvidia.com/blog/category/industries/industrial-robotics/
+      - title: Microsoft Manufacturing Blog
+        url: https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/
+      - title: AWS Industrial Blog
+        url: https://aws.amazon.com/blogs/industries/category/industries/industrial/
+      - title: Google Cloud Manufacturing Blog
+        url: https://cloud.google.com/blog/topics/manufacturing
+      - title: SAP News Center - Industries
+        url: https://news.sap.com/topics/industries/
+      - title: Dassault Systemes Newsroom
+        url: https://www.3ds.com/newsroom
+      - title: PTC News
+        url: https://www.ptc.com/en/news
