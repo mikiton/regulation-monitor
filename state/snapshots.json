@@ -1,73 +1,73 @@
 {
   "sources": {
     "https://digital-strategy.ec.europa.eu/en/policies/ai-office": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "EU AI Act",
       "sha256": "f257ad32da2e7b59e655811ac1f5601c9c45d7320d1e558f668d9e3a3b95ad1c",
       "title": "EU AI Office"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
       "sha256": "ca511c70b6557839bafa4e3ee7d23f760e9b0521a7588d2a47626178db1e7bfd",
       "title": "European Commission - Cyber Resilience Act"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "EU AI Act",
       "sha256": "474fd8f0ee1d69a5095fc58335886573f10d339a35fa562a1d6cb4ce63d0d88e",
       "title": "European Commission - AI Act"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/batteries_en": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
-      "sha256": "b2fe9156fc3b73fcd0f104bfca996dbc7eb2c7e9a04a60d6460adc79bf67d91a",
+      "sha256": "fad4768fe90107e7bd142db66c75ad6a0aff6ffad3ca04590ace2d9f6234c361",
       "title": "European Commission - Batteries"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "RoHS",
-      "sha256": "67856114a2ea1cc99a21f4ce72680b5d89c23d38b4d016863f51c948070d5ba4",
+      "sha256": "4e1f2af439633c69523d1fde306f1b75a309b89af91bfc25614d892620148a56",
       "title": "European Commission - RoHS Directive"
     },
     "https://eur-lex.europa.eu/eli/reg/2023/1542/oj": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
       "sha256": "b4685ffd64b42cd947876175f40885a80fa25af52a80c872a83847a21c62eb7f",
       "title": "EUR-Lex - Regulation (EU) 2023/1542"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=%22Cyber%20Resilience%20Act%22&lang=en&type=quick": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
-      "sha256": "fa16976113235001f68c74e43d4d8590b86ae8ca3b3d46ebb47b23bb1c9ac167",
+      "sha256": "1c4d457d8bcbf6693efa2954861f90c8776556c919d47c47ffd211d25f6e12ad",
       "title": "EUR-Lex search - Cyber Resilience Act"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=RoHS&lang=en&type=quick": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "RoHS",
-      "sha256": "4038ba02d039685c290cc26d71047f095371396e2b6fd3c0f8ceaaaa96a954d7",
+      "sha256": "8a9ade7a4c9e45e55ab7ebf15e84f411ab33a528ede8342cd7a6c0e1197257b4",
       "title": "EUR-Lex search - RoHS"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_error": "404 Client Error: Not Found for url: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en",
       "last_status": "error",
       "regulation": "CBAM",
       "title": "European Commission - CBAM guidance"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en": {
-      "last_checked": "2026-06-15",
+      "last_checked": "2026-06-16",
       "last_status": "ok",
       "regulation": "CBAM",
-      "sha256": "e6a8e3aa1be86d39fa6ef0f2b37b2a24cbb34790a2af54271fa07b16b9758a8f",
+      "sha256": "4e68b854a293b59985205a1a4119316f213660e4099df83aff7b8883b57ad6f1",
       "title": "European Commission - CBAM"
     }
   }
