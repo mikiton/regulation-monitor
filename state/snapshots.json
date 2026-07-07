@@ -1,70 +1,70 @@
 {
   "sources": {
     "https://digital-strategy.ec.europa.eu/en/policies/ai-office": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "EU AI Act",
-      "sha256": "62aee6522931228c6e2e2203f4c5f44e6e6ccf7c7e9dbd486a1f78040721d7a9",
+      "sha256": "d68e386fbef13629b1fcbb46a33822a6f8cbfd48d813fb0892cb724998f1e1ed",
       "title": "EU AI Office"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
       "sha256": "104a0d1ca5ac09822de4f560a31a301f4a4cf72e9d9f7d52c3817a255369edd8",
       "title": "European Commission - Cyber Resilience Act"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "EU AI Act",
-      "sha256": "70d8588d7c932ae594d69adbb75a41e0ff516caf9ece986df89ba017f7c662fd",
+      "sha256": "9057aa4f0350b819e5683e035ccb65dacdd65cbe03d8550b2aed0c9e6e00e31d",
       "title": "European Commission - AI Act"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/batteries_en": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
       "sha256": "77d7db08e1f8592b500bd075d8a98b25db08687b6e741949c0da772b8ca3e5ea",
       "title": "European Commission - Batteries"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "RoHS",
       "sha256": "a678cfe7334e37b43d8a6a5b913343b7f85c784718964569a1284126d924e038",
       "title": "European Commission - RoHS Directive"
     },
     "https://eur-lex.europa.eu/eli/reg/2023/1542/oj": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
       "sha256": "b4685ffd64b42cd947876175f40885a80fa25af52a80c872a83847a21c62eb7f",
       "title": "EUR-Lex - Regulation (EU) 2023/1542"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=%22Cyber%20Resilience%20Act%22&lang=en&type=quick": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
-      "sha256": "5ddc37f5647381e44f1e098f0c16c1f857421b7b2502cbfe7d64e808408400f3",
+      "sha256": "767770eb69185afa5bce4d8fac2b5df25f83c7ef2735c43a383c2c49c7ff3e96",
       "title": "EUR-Lex search - Cyber Resilience Act"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=RoHS&lang=en&type=quick": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "RoHS",
-      "sha256": "b26c6a6a189ef55a521785cbe5a66243cd02d1211f36f05c59b0143b0400a34a",
+      "sha256": "10f78debe63933b5f03a2870f5c86d984f3711f9cbce0e711f6a309830e973c6",
       "title": "EUR-Lex search - RoHS"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_error": "404 Client Error: Not Found for url: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en",
       "last_status": "error",
       "regulation": "CBAM",
       "title": "European Commission - CBAM guidance"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en": {
-      "last_checked": "2026-07-07",
+      "last_checked": "2026-07-08",
       "last_status": "ok",
       "regulation": "CBAM",
       "sha256": "71777b2e172217565711a605e90f0e5b311a33b9538666748003ae01e1b4e471",
