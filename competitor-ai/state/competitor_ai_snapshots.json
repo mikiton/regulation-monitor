@@ -3,7 +3,7 @@
     "https://corporate.thermofisher.com/en/newsroom.html": {
       "title": "Thermo Fisher Scientific Newsroom",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://corporate.thermofisher.com/en/newsroom.html"
     },
@@ -11,20 +11,21 @@
       "title": "Thermo Fisher Scientific Products and Services News",
       "category": "Analytical instruments and laboratory AI",
       "sha256": "82008a6702b33877497db7def24c1e916a3e94c4621106ccce869ed0e372b73a",
-      "last_checked": "2026-08-17",
-      "status": "ok"
+      "last_checked": "2026-08-18",
+      "status": "error",
+      "error": "Exceeded 30 redirects."
     },
     "https://www.agilent.com/about/newsroom": {
       "title": "Agilent Newsroom",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.agilent.com/about/newsroom"
     },
     "https://www.waters.com/nextgen/us/en/about-waters/newsroom.html": {
       "title": "Waters Newsroom",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.waters.com/nextgen/us/en/about-waters/newsroom.html"
     },
@@ -32,27 +33,27 @@
       "title": "Bruker News",
       "category": "Analytical instruments and laboratory AI",
       "sha256": "3a30443780bf9f2c043dcdf5e08fb4ea7f6b91b677acc699741c7304eb0bc0e6",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.revvity.com/newsroom": {
       "title": "Revvity Newsroom",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.revvity.com/newsroom"
     },
     "https://www.mt.com/us/en/home/aboutus/news.html": {
       "title": "Mettler-Toledo News",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "406 Client Error: Not Acceptable for url: https://www.mt.com/us/en/home/aboutus/news.html"
     },
     "https://www.bio-rad.com/en-us/corporate/newsroom": {
       "title": "Bio-Rad Newsroom",
       "category": "Analytical instruments and laboratory AI",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.bio-rad.com/en-us/corporate/newsroom"
     },
@@ -60,34 +61,34 @@
       "title": "Danaher News",
       "category": "Danaher operating companies",
       "sha256": "6f636f3a431fbcb653704614a07021f6be3459b721a243d6f3b6fb2b2b05ce62",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://sciex.com/about-us/news": {
       "title": "SCIEX News",
       "category": "Danaher operating companies",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://sciex.com/about-us/news"
     },
     "https://www.beckman.com/about-us/newsroom": {
       "title": "Beckman Coulter Newsroom",
       "category": "Danaher operating companies",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.beckman.com/about-us/newsroom"
     },
     "https://www.leicabiosystems.com/about/news/": {
       "title": "Leica Biosystems News",
       "category": "Danaher operating companies",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://www.leicabiosystems.com/about/news/"
     },
     "https://www.cepheid.com/en-US/news.html": {
       "title": "Cepheid News",
       "category": "Danaher operating companies",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://www.cepheid.com/en-US/news.html"
     },
@@ -95,48 +96,48 @@
       "title": "Roche Media Releases",
       "category": "Medical and diagnostics AI",
       "sha256": "74d17d38ab2b00c1ade219d99987dfb7553d7b73738461a5e6e0a6271af8ea49",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.siemens-healthineers.com/press": {
       "title": "Siemens Healthineers Press",
       "category": "Medical and diagnostics AI",
       "sha256": "4c5b9f771231667251925fa006880221921af1ff7ad3056eaac6739d873defb5",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.philips.com/a-w/about/news/home.html": {
       "title": "Philips News Center",
       "category": "Medical and diagnostics AI",
       "sha256": "dbeefa08fbdf556283a357fa35463190621de347b012a373c8c1874644508649",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.gehealthcare.com/about/newsroom": {
       "title": "GE HealthCare Newsroom",
       "category": "Medical and diagnostics AI",
       "sha256": "1055ae5e72e51b507edffcda45adcc8006fb2b04232826c65d0e4453003ef252",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.jeol.com/news/": {
       "title": "JEOL News",
       "category": "Japanese analytical and measurement competitors",
       "sha256": "9fdf85a07659168c8cab9d47681c3d9a48dcad86eb171450bcac125c80a4047f",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.horiba.com/int/company/news/": {
       "title": "HORIBA News",
       "category": "Japanese analytical and measurement competitors",
       "sha256": "9e732cb1e495f944682e27f56f21a030b6f695f4b99810ead31011db00d7a6f2",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.hitachi-hightech.com/global/en/news/": {
       "title": "Hitachi High-Tech News Releases",
       "category": "Japanese analytical and measurement competitors",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.hitachi-hightech.com/global/en/news/"
     },
@@ -144,42 +145,42 @@
       "title": "Nikon News",
       "category": "Japanese analytical and measurement competitors",
       "sha256": "e9d618d81dd690aa195683d183bfa7086a64e31fd9ee218fde30fc72646cd90a",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.olympus-global.com/news/": {
       "title": "Olympus News",
       "category": "Japanese analytical and measurement competitors",
-      "sha256": "29b96234f2c3df627e8b9cb5aa1ad81f8f62cf9b7bb4dd10b181caa79e76f83c",
-      "last_checked": "2026-08-17",
+      "sha256": "e6514b7d5c683ae146867448603d0c251e3473e7efd0898ab8182e73576155fa",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.sartorius.com/en/company/newsroom": {
       "title": "Sartorius Newsroom",
       "category": "Life science and lab automation platforms",
       "sha256": "a50d5451c56804ba308fbc0c00966c7ada08d44307285dc0e5637b1379a22b64",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.tecan.com/news": {
       "title": "Tecan News",
       "category": "Life science and lab automation platforms",
       "sha256": "a9a38ca3144ad338f1abb20ceec4e47d5717c059e4c96e6447d24f192dfcee3a",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "ok"
     },
     "https://www.hamiltoncompany.com/automated-liquid-handling/news-events": {
       "title": "Hamilton Robotics News",
       "category": "Life science and lab automation platforms",
-      "last_checked": "2026-08-17",
+      "last_checked": "2026-08-18",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://www.hamiltoncompany.com/automated-liquid-handling/news-events"
     },
     "https://www.illumina.com/company/news-center.html": {
       "title": "Illumina News Center",
       "category": "Life science and lab automation platforms",
-      "sha256": "952f72f5edd131c92a7347d69cd2a4e336cabfbcb6b526dd93c572e8e85dfa90",
-      "last_checked": "2026-08-17",
+      "sha256": "b33ee787dfcef6d361ed28747a43d4c2330a2bb056b0510e04c3cf3b6fc836e5",
+      "last_checked": "2026-08-18",
       "status": "ok"
     }
   }
