@@ -3,15 +3,15 @@
     "https://news.sap.com/": {
       "title": "SAP News Center",
       "category": "SAP and ERP",
-      "sha256": "6daddd20b981448f0a20816330e0de03d50944243869b5b4c1524084e0e8cb4d",
-      "last_checked": "2026-09-03",
+      "sha256": "5b4c51f5c849a733e9d5ecea99841a115f9ebcbe4d6d31ad312e362f1482189c",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.sap.com/products/artificial-intelligence.html": {
       "title": "SAP Business AI",
       "category": "SAP and ERP",
       "sha256": "8ecd23e2ddcff8db2343d8a372fde95c1a468255c57693eccd59f2a3db64c77b",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.sap.com/products/artificial-intelligence.html"
     },
@@ -19,7 +19,7 @@
       "title": "SAP S/4HANA Cloud ERP",
       "category": "SAP and ERP",
       "sha256": "539a28f296a17a3db28b0aa90d8191c8cace5955201403aae09fa1a20310f0b7",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.sap.com/products/erp/s4hana.html"
     },
@@ -27,7 +27,7 @@
       "title": "SAP Business Technology Platform",
       "category": "SAP and ERP",
       "sha256": "6863b1df631ed535e1167642f6c733e56dd5c014a752c5e643680ef7d9d255df",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.sap.com/products/technology-platform.html"
     },
@@ -35,97 +35,99 @@
       "title": "SAP Integrated Business Planning",
       "category": "SAP and ERP",
       "sha256": "17c48a4598f3dff4cafb0f0184aa4af02daaece90f5d5ae8890f0e54de4ea8fe",
-      "last_checked": "2026-09-03",
-      "status": "ok"
+      "last_checked": "2026-09-04",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://www.sap.com/products/scm/integrated-business-planning.html"
     },
     "https://www.sap.com/products/scm/digital-manufacturing.html": {
       "title": "SAP Digital Manufacturing",
       "category": "SAP and ERP",
       "sha256": "8da9be2c58651363bbe1325c99da28ffee11610143d7fe88edc862172a9bbcb8",
-      "last_checked": "2026-09-03",
-      "status": "ok"
+      "last_checked": "2026-09-04",
+      "status": "error",
+      "error": "403 Client Error: Forbidden for url: https://www.sap.com/products/scm/digital-manufacturing.html"
     },
     "https://blogs.sw.siemens.com/": {
       "title": "Siemens Digital Industries Software Blog",
       "category": "PLM and digital thread",
-      "sha256": "b26cdb6a44604a1a5090c57e3efc4d028cfcdc131270f3739e68f01f0fe37de0",
-      "last_checked": "2026-09-03",
+      "sha256": "8709a2faa1b05d2f1759fb936ad5d989cba43670ac52983ec7c4a9c317c1dceb",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://plm.sw.siemens.com/en-US/teamcenter/": {
       "title": "Siemens Teamcenter",
       "category": "PLM and digital thread",
       "sha256": "ab036f0b1009fa104eede51365591c8a6d6d7282e69219018b976c964f2a9229",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.3ds.com/newsroom": {
       "title": "Dassault Systemes Newsroom",
       "category": "PLM and digital thread",
-      "sha256": "7a20202f398a246bc3e4194018572801969076a3f25f6e6c44885bc0e3d2584a",
-      "last_checked": "2026-09-03",
+      "sha256": "c462c05477ce2f1ae7fa9f6ff5185055316f8bf440665071f1c0372528ede2e2",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.ptc.com/en/news": {
       "title": "PTC News",
       "category": "PLM and digital thread",
       "sha256": "468a9c901a1c431c0f281683ecee37b53612dbf952d13fd62f6101e25bb88cb3",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.ptc.com/en/products/windchill": {
       "title": "PTC Windchill",
       "category": "PLM and digital thread",
       "sha256": "614bc5893d16ee7e7f65bb9bbb71bf4897d130488753ed01e9e48f5b0a09118a",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.kinaxis.com/en/newsroom": {
       "title": "Kinaxis Newsroom",
       "category": "SCM and planning",
       "sha256": "e0fc6d41f3c37a2631cafce943fc39c2cdec11933f69309e0f227514b103a1b8",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://media.blueyonder.com/": {
       "title": "Blue Yonder Newsroom",
       "category": "SCM and planning",
       "sha256": "55511dad23aa1db3500495df794f8d6c56e66ae7399f2e3e0d8babfb1e773a00",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://o9solutions.com/company/newsroom/": {
       "title": "o9 Solutions Newsroom",
       "category": "SCM and planning",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://o9solutions.com/company/newsroom"
     },
     "https://blogs.oracle.com/scm/": {
       "title": "Oracle Supply Chain Management Blog",
       "category": "SCM and planning",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://blogs.oracle.com/scm/"
     },
     "https://www.microsoft.com/en-us/dynamics-365/products/supply-chain-management": {
       "title": "Microsoft Supply Chain Platform",
       "category": "SCM and planning",
-      "sha256": "a3a32fe35b8263300ee00b768bb9a883b0acb2853c903bfe5622543b1b4e7ef3",
-      "last_checked": "2026-09-03",
+      "sha256": "38e4d4ea8aefee774dbb334986ed8e36cce4ce6c95dc5c748c6b53fce40db33d",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/": {
       "title": "Microsoft Manufacturing Blog",
       "category": "Manufacturing DX and smart factory",
       "sha256": "b01c936e7559d297932e550fe6e0630642285d6de9b63a23c68d33cb17cfd688",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://aws.amazon.com/blogs/industries/category/industries/industrial/": {
       "title": "AWS Industrial Blog",
       "category": "Manufacturing DX and smart factory",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "404 Client Error:  for url: https://aws.amazon.com/blogs/industries/category/industries/industrial/"
     },
@@ -133,20 +135,20 @@
       "title": "Google Cloud Manufacturing Blog",
       "category": "Manufacturing DX and smart factory",
       "sha256": "9ce87580ee490cc61779898345ccb24ed6d74b1ced7b74056e4bcac5dedfe189",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.se.com/ww/en/about-us/newsroom/": {
       "title": "Schneider Electric Newsroom",
       "category": "Manufacturing DX and smart factory",
-      "sha256": "029a115689cf40e4c93094c267684010d00583bd9b978781b02c79be52f43b6c",
-      "last_checked": "2026-09-03",
+      "sha256": "814db8b67fcfa8d080ab6c20f88f65914b0f414e7fbe91e508762e6fef142174",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.bosch-presse.de/pressportal/de/en/press-release.html": {
       "title": "Bosch Press Portal",
       "category": "Manufacturing DX and smart factory",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "404 Client Error:  for url: https://www.bosch-presse.de/pressportal/de/en/press-release.html"
     },
@@ -154,57 +156,57 @@
       "title": "Mitsubishi Electric News Releases",
       "category": "Manufacturing DX and smart factory",
       "sha256": "ab70369a19119246d6c818ee2ca71b3938194809f3296ee3f25e75ab87523d26",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.hitachi.com/New/cnews/index.html": {
       "title": "Hitachi News Releases",
       "category": "Manufacturing DX and smart factory",
       "sha256": "01c0214233efaf26078cc18401b5047d0d06027b38ab6c86cb55085489796105",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.nec.com/en/press/": {
       "title": "NEC News Releases",
       "category": "Manufacturing DX and smart factory",
       "sha256": "a164cab7ce2755093d154f575061e06e78050ac3ecbfe19bfc5098744119dd50",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.fujitsu.com/global/about/resources/news/": {
       "title": "Fujitsu News",
       "category": "Manufacturing DX and smart factory",
       "sha256": "362b82d4d3c2b955bd0ec43656c4c6c653bdecebad42369b39db52fc20c06b8c",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "429 Client Error: Too Many Requests for url: https://global.fujitsu/en-global/newsroom"
     },
     "https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation_en": {
       "title": "European Commission - Ecodesign for Sustainable Products Regulation",
       "category": "Regulation DX and product traceability",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://environment.ec.europa.eu/strategy/circular-economy/ecodesign-sustainable-products-regulation_EUROPA_CURRENT_LANG"
     },
     "https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation/digital-product-passport_en": {
       "title": "European Commission - Digital Product Passport",
       "category": "Regulation DX and product traceability",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://commission.europa.eu/energy-climate-change-environment/standards-tools-and-labels/products-labelling-rules-and-requirements/sustainable-products/ecodesign-sustainable-products-regulation/digital-product-passport_en"
     },
     "https://catena-x.net/en/news": {
       "title": "Catena-X News",
       "category": "Regulation DX and product traceability",
-      "sha256": "35b9124ae3d95f9b6f99d770d3ee1f008bb8c073d927622591ff068b65f96f73",
-      "last_checked": "2026-09-03",
+      "sha256": "3436536cf37376347d42138d7c63e749b0b41f66667e8934df26a026b96c5733",
+      "last_checked": "2026-09-04",
       "status": "ok"
     },
     "https://www.plattform-i40.de/IP/Navigation/EN/Manufacturing-X/Manufacturing-X.html": {
       "title": "Manufacturing-X",
       "category": "Regulation DX and product traceability",
       "sha256": "5aeca15bd90bdc6a72d861634283fbb9963e36d8fa6e45428dd9a447a59f7d84",
-      "last_checked": "2026-09-03",
+      "last_checked": "2026-09-04",
       "status": "ok"
     }
   }
