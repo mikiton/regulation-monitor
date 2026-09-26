@@ -4,125 +4,125 @@
       "title": "OpenAI News",
       "category": "Foundation models and generative AI",
       "sha256": "80eb36300082e9e9e586dc7c2e51c54b3343ed6bde5e6df1e3c56dc4d5456bbf",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://deepmind.google/discover/blog/": {
       "title": "Google DeepMind Blog",
       "category": "Foundation models and generative AI",
       "sha256": "ab462bff6477bec662132904780290fa2d9d7b727ef572cab8384c7c391792e8",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://www.anthropic.com/news": {
       "title": "Anthropic News",
       "category": "Foundation models and generative AI",
       "sha256": "b576021c8e0e1bc58513bd28c303632d2c62f5164d060717726514e7019cad4e",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://ai.meta.com/blog/": {
       "title": "Meta AI Blog",
       "category": "Foundation models and generative AI",
       "sha256": "a04e1b3767a06c09fc2783fee05c14847f3ab74adaa4ff934d5cb109e140af89",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://mistral.ai/news/": {
       "title": "Mistral AI News",
       "category": "Foundation models and generative AI",
       "sha256": "54abff4c6947d1a955b81f44b97ee384348ce66ea263f3b6d171080d2f9fc1b6",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://blogs.microsoft.com/ai/": {
       "title": "Microsoft AI Blog",
       "category": "Enterprise AI and platforms",
       "sha256": "f4605a0c302240e9050f6754b097b5d6805dfea209889e5eaeca2187cc81b164",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://aws.amazon.com/blogs/machine-learning/": {
       "title": "AWS Machine Learning Blog",
       "category": "Enterprise AI and platforms",
-      "sha256": "e58502f7a77896aaa2734cd9ed1d763e1303113b39d2d323a37ddd5a66859464",
-      "last_checked": "2026-09-25",
+      "sha256": "4de090683980bdf6589ae575b165f115ee9ebd35348d5b46264511de4f67a12b",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://cloud.google.com/blog/products/ai-machine-learning": {
       "title": "Google Cloud AI Blog",
       "category": "Enterprise AI and platforms",
-      "sha256": "f92a65b5af70b28847beb4db9405fa8b0fc59af92088d184354d172c73a8f90d",
-      "last_checked": "2026-09-25",
+      "sha256": "3a38db7c4c848b8d71c7c2b7bddf4bbc91c203bd125c27a0aa16c7b6b3c1a700",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://blogs.nvidia.com/blog/category/deep-learning/": {
       "title": "NVIDIA Blog - AI",
       "category": "Enterprise AI and platforms",
       "sha256": "4ed247dc7693bd2e25148a23f46b3d7d525f9b4c559801a8616c494c859fcfa1",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/ai-office": {
       "title": "EU AI Office",
       "category": "AI governance and regulation",
       "sha256": "ef5edea138f7aced701eb302f51bef862db3079736c4e3cacbca9f5e11f1482c",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai": {
       "title": "European Commission - AI Act",
       "category": "AI governance and regulation",
       "sha256": "f11e0e82122b38d500407e189136d0441dc8bc4c171d58e8c9a8fbf24182af92",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://oecd.ai/en/": {
       "title": "OECD AI Policy Observatory",
       "category": "AI governance and regulation",
       "sha256": "6d6e76476ab46b0d0f9f6dc99f4d6df6b28f67d5ff7226b1dfb3427302a61d79",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://airc.nist.gov/": {
       "title": "NIST AI Resource Center",
       "category": "AI governance and regulation",
       "sha256": "e3970f157a988e80accc4949d64762d6ddeda7af86b6dce086df92f673fa00ed",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://hai.stanford.edu/news": {
       "title": "Stanford HAI News",
       "category": "AI safety and research",
-      "sha256": "9893c36146190b4bb1dfe729098e1c65d588147e7690dee2194005331c8365f8",
-      "last_checked": "2026-09-25",
+      "sha256": "7eed180f522330021afa1dd8fc32a980625694982117e3e7cd18053fc51f741f",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://news.mit.edu/topic/artificial-intelligence2": {
       "title": "MIT News - Artificial Intelligence",
       "category": "AI safety and research",
-      "sha256": "ba23f5a5748e4a96e15618941e9a77daeaf62a86f202105054719a24b9f77d23",
-      "last_checked": "2026-09-25",
+      "sha256": "b9765792dc70fbb595cc4160708a172c0cfaefea7a27cf3a1f5dbb0b7297ff28",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://arxiv.org/list/cs.AI/recent": {
       "title": "arXiv cs.AI recent",
       "category": "AI safety and research",
-      "sha256": "2bc41fae9b5f3709f78a16484af0fb1830ed38b14989603c7f083b9588c64bcf",
-      "last_checked": "2026-09-25",
+      "sha256": "78c1315ff321e45e614a2cbe163e92d8aca80054e2ab7675076076a75c0c824b",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://arxiv.org/list/cs.LG/recent": {
       "title": "arXiv cs.LG recent",
       "category": "AI safety and research",
-      "sha256": "d150e6e7d685be8b3222ced00f9806324de3a8ada813a667b6c78ed4ef02d623",
-      "last_checked": "2026-09-25",
+      "sha256": "c3dc323e66c6094989bd974e25f2b3cfabc4a81ee84d4a4c624433cd14dc3579",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://www.meti.go.jp/english/policy/mono_info_service/index.html": {
       "title": "METI - AI and Digital Policy",
       "category": "Japan and industry AI trends",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.meti.go.jp/english/policy/mono_info_service/index.html"
     },
@@ -130,14 +130,14 @@
       "title": "IPA Digital Architecture Design Center",
       "category": "Japan and industry AI trends",
       "sha256": "6fadc77adacd95b102ac62b1f83fca44056026c2192a496718a1b22195fffdd4",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     },
     "https://www.jetro.go.jp/en/news/": {
       "title": "JETRO Business News",
       "category": "Japan and industry AI trends",
       "sha256": "05e3b9ce236b72b6d3768ee3d16c35e254e3282faa51149b44edc43a416eed53",
-      "last_checked": "2026-09-25",
+      "last_checked": "2026-09-26",
       "status": "ok"
     }
   }
