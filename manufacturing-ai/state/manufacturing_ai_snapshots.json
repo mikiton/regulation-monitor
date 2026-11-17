@@ -3,100 +3,99 @@
     "https://press.siemens.com/global/en": {
       "title": "Siemens Newsroom",
       "category": "Manufacturing automation and industrial AI",
-      "sha256": "445313f0548cdf3c542bf17caf3a1326574774ab142a6187803145223fe330a5",
-      "last_checked": "2026-11-16",
+      "sha256": "bc23de8d16e377c2e055291352f404683bb5b50cfc9d21c65c62bec95a5ee88e",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.bosch-presse.de/pressportal/de/en/press-release.html": {
       "title": "Bosch Press Portal",
       "category": "Manufacturing automation and industrial AI",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "404 Client Error:  for url: https://www.bosch-presse.de/pressportal/de/en/press-release.html"
     },
     "https://www.se.com/ww/en/about-us/newsroom/": {
       "title": "Schneider Electric Newsroom",
       "category": "Manufacturing automation and industrial AI",
-      "sha256": "755a2b197782c7987f57fd90f76637bed08cc2291b2fa6dac03fb37ddec68a51",
-      "last_checked": "2026-11-16",
+      "sha256": "e9b44419a660673d73dbc1de8dc0e7d34223fa348ef016dfb0a3ed85d71ff832",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://global.abb/group/en/media/news": {
       "title": "ABB News",
       "category": "Manufacturing automation and industrial AI",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://global.abb/group/en/media/news"
     },
     "https://www.honeywell.com/us/en/press": {
       "title": "Honeywell News",
       "category": "Manufacturing automation and industrial AI",
-      "sha256": "00345df7ad14a0daf83e2b45428656cccf5a20b5fb2f97163c1eb8e77bcf9e64",
-      "last_checked": "2026-11-16",
-      "status": "error",
-      "error": "404 Client Error: Not Found for url: https://www.honeywell.com/www.honeywell.com/us/en/search/newsroom"
+      "sha256": "a1ceaf98328d942812a7ebd000c351cedbcca31ac513e065f2ac5e490d2ec025",
+      "last_checked": "2026-11-17",
+      "status": "ok"
     },
     "https://www.hitachi.com/New/cnews/index.html": {
       "title": "Hitachi News Releases",
       "category": "Japanese manufacturing and industrial AI",
       "sha256": "7fbc1e9064af8baaa609c392d96b01ff8fead89d62a32e9e78db90c5dc4b1b3d",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.mitsubishielectric.com/news/": {
       "title": "Mitsubishi Electric News Releases",
       "category": "Japanese manufacturing and industrial AI",
       "sha256": "92b1b5ec803539514ff3528a95bf51be7ae79bffc7c0af792509aff0d9633d7f",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.nec.com/en/press/": {
       "title": "NEC News Releases",
       "category": "Japanese manufacturing and industrial AI",
       "sha256": "a164cab7ce2755093d154f575061e06e78050ac3ecbfe19bfc5098744119dd50",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.fujitsu.com/global/about/resources/news/": {
       "title": "Fujitsu Customer Stories and News",
       "category": "Japanese manufacturing and industrial AI",
       "sha256": "362b82d4d3c2b955bd0ec43656c4c6c653bdecebad42369b39db52fc20c06b8c",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "429 Client Error: Too Many Requests for url: https://global.fujitsu/en-global/newsroom"
     },
     "https://news.panasonic.com/global/": {
       "title": "Panasonic Newsroom",
       "category": "Japanese manufacturing and industrial AI",
-      "sha256": "09e3a8c488a15b39fae5903d061877a940bd4e3312d6e0d91f710503bcc3d356",
-      "last_checked": "2026-11-16",
+      "sha256": "329f653ab896df91fe4b2c1ef69807b27c6a00dd9ef469cdb931628e4282b7e3",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.siemens-healthineers.com/press": {
       "title": "Siemens Healthineers Press",
       "category": "Healthcare and analytical instruments AI",
       "sha256": "69a348b98b1da89b2a5fd86c8e6df83e67cd6748d8fe17d5e108e4616c81bf1c",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.philips.com/a-w/about/news/home.html": {
       "title": "Philips News Center",
       "category": "Healthcare and analytical instruments AI",
-      "sha256": "610346bfc488fb0368cab71ac0d0e2c4fa7b6e330717f0f304582d15b26d69e7",
-      "last_checked": "2026-11-16",
+      "sha256": "ae4f84945e2f5923c2177c5d9aa7dd008525e2d70a50c67861e10c91077c8ae3",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://corporate.thermofisher.com/en/newsroom.html": {
       "title": "Thermo Fisher Scientific Newsroom",
       "category": "Healthcare and analytical instruments AI",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://corporate.thermofisher.com/en/newsroom.html"
     },
     "https://www.agilent.com/about/newsroom": {
       "title": "Agilent Newsroom",
       "category": "Healthcare and analytical instruments AI",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.agilent.com/about/newsroom"
     },
@@ -104,13 +103,13 @@
       "title": "Danaher News",
       "category": "Healthcare and analytical instruments AI",
       "sha256": "caa880bf75f18bd99b7614660e98d805fabf80ddf65031cf176e88e5e075c4b2",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.waters.com/nextgen/us/en/about-waters/newsroom.html": {
       "title": "Waters Newsroom",
       "category": "Healthcare and analytical instruments AI",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "403 Client Error: Forbidden for url: https://www.waters.com/nextgen/us/en/about-waters/newsroom.html"
     },
@@ -118,34 +117,34 @@
       "title": "Bruker News",
       "category": "Healthcare and analytical instruments AI",
       "sha256": "3a30443780bf9f2c043dcdf5e08fb4ea7f6b91b677acc699741c7304eb0bc0e6",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.roche.com/media/releases": {
       "title": "Roche Media Releases",
       "category": "Healthcare and analytical instruments AI",
       "sha256": "8a2acd040d347fa5655a00a4d450d215dc876086cb1ea257168d957c65e1a62a",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://blogs.nvidia.com/blog/category/industries/industrial-robotics/": {
       "title": "NVIDIA Industrial and Robotics Blog",
       "category": "Industrial AI platforms and digital manufacturing",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "404 Client Error: Not Found for url: https://blogs.nvidia.com/blog/category/industries/industrial-robotics/"
     },
     "https://www.microsoft.com/en-us/industry/blog/manufacturing-and-mobility/": {
       "title": "Microsoft Manufacturing Blog",
       "category": "Industrial AI platforms and digital manufacturing",
-      "sha256": "7c876018e8da9c92b02b62f4b62b0cd3dda3de99e1fb2b3aab20b11b562b290f",
-      "last_checked": "2026-11-16",
+      "sha256": "b6f1a0a6ec7531b92d2ae750a2af31a0ad042f415d1a30ffb0849a84ade42561",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://aws.amazon.com/blogs/industries/category/industries/industrial/": {
       "title": "AWS Industrial Blog",
       "category": "Industrial AI platforms and digital manufacturing",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "error",
       "error": "404 Client Error:  for url: https://aws.amazon.com/blogs/industries/category/industries/industrial/"
     },
@@ -153,28 +152,28 @@
       "title": "Google Cloud Manufacturing Blog",
       "category": "Industrial AI platforms and digital manufacturing",
       "sha256": "2aa31625c703e3e5366450796c18a5f32d72bf6bb23df6decb053edd96e6e9e5",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://news.sap.com/topics/industries/": {
       "title": "SAP News Center - Industries",
       "category": "Industrial AI platforms and digital manufacturing",
-      "sha256": "de52c2f0762997cf384b62c33b58b88a945dcfe97da9a9efd55ae3fa0c2d9907",
-      "last_checked": "2026-11-16",
+      "sha256": "aff0d56cc1769a4a97afd260b71a706d24f6e757f5073703d79b5f13f0fd0c98",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.3ds.com/newsroom": {
       "title": "Dassault Systemes Newsroom",
       "category": "Industrial AI platforms and digital manufacturing",
       "sha256": "00e703be6a9ad28fb2bedf77a5dfc4abd71062bbe042731af0f75e3185f12b3d",
-      "last_checked": "2026-11-16",
+      "last_checked": "2026-11-17",
       "status": "ok"
     },
     "https://www.ptc.com/en/news": {
       "title": "PTC News",
       "category": "Industrial AI platforms and digital manufacturing",
-      "sha256": "0771b0e51cb986874d7434801c776c228cd1d2a321a30d5de2462b7a0e007e95",
-      "last_checked": "2026-11-16",
+      "sha256": "26846ddbb1e11a1e4515f058d4ee172d92c482cf5641586f58fb59861ebc9ee3",
+      "last_checked": "2026-11-17",
       "status": "ok"
     }
   }
