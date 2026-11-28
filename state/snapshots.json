@@ -1,71 +1,70 @@
 {
   "sources": {
     "https://digital-strategy.ec.europa.eu/en/policies/ai-office": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "EU AI Act",
       "sha256": "f15f0dd361ed66bf3141d24401ac58eac8f4f33df508dc74d708fa88ac3ae44f",
       "title": "EU AI Office"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act": {
-      "last_checked": "2026-11-27",
-      "last_error": "503 Server Error: Service Unavailable for url: https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act",
-      "last_status": "error",
+      "last_checked": "2026-11-28",
+      "last_status": "ok",
       "regulation": "Cyber Resilience Act",
       "sha256": "2d320f86053ffe7ed92103f797714f68cbdb48105cd62dadaae737100e7cf925",
       "title": "European Commission - Cyber Resilience Act"
     },
     "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "EU AI Act",
-      "sha256": "66c18b75b6fcdf20140edddf68a285b4cf211e4cd1d42aefa4789e3517ffa923",
+      "sha256": "7ea19d05534f54e7017cbd8dbaa6ffe24d99fd8e6029f9d736060ce0c76d7d0a",
       "title": "European Commission - AI Act"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/batteries_en": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
       "sha256": "3cff8ccc3ed04f2c0b9d27a5fc54628337a10c55ecb42ce16274e2bae5320583",
       "title": "European Commission - Batteries"
     },
     "https://environment.ec.europa.eu/topics/waste-and-recycling/rohs-directive_en": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "RoHS",
       "sha256": "a678cfe7334e37b43d8a6a5b913343b7f85c784718964569a1284126d924e038",
       "title": "European Commission - RoHS Directive"
     },
     "https://eur-lex.europa.eu/eli/reg/2023/1542/oj": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "EU Battery Regulation",
-      "sha256": "5b663d76f03ef99951395ee7e9691a3be975b3cfa1c26af5f9c982bf4719580c",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "title": "EUR-Lex - Regulation (EU) 2023/1542"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=%22Cyber%20Resilience%20Act%22&lang=en&type=quick": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "Cyber Resilience Act",
-      "sha256": "7eed361e2b477802a0d05001a92ccd1756890a6bfaabbc03acb8228897dc7254",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "title": "EUR-Lex search - Cyber Resilience Act"
     },
     "https://eur-lex.europa.eu/search.html?scope=EURLEX&text=RoHS&lang=en&type=quick": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "RoHS",
-      "sha256": "fdb702eeeab851fcfaf30779d1a36e4d19f2aab90c313f66edb7a6326c1eae7f",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "title": "EUR-Lex search - RoHS"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_error": "404 Client Error: Not Found for url: https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/guidance_en",
       "last_status": "error",
       "regulation": "CBAM",
       "title": "European Commission - CBAM guidance"
     },
     "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_status": "ok",
       "regulation": "CBAM",
       "sha256": "f240aa129d43a8b507b01efc497db942e4e99bcaa24dbc87928112422269f94e",
